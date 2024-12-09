@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hello, World! I'm Shanu Ojha  <br>Tech Enthusiast | Web Developer | Music Lover*</h2>
+<h2 align="center">👋 Hello, World! I'm Shanu Ojha  <br>Tech Enthusiast | Web Developer | Music Lover</h2>
 
 ###
 
