@@ -1,81 +1,83 @@
-<h2 align="center">👋 Hello, World! I'm Shanu Ojha  <br>Tech Enthusiast | Web Developer | Music Lover</h2>
+<h1 align="center">👋 Hello, World! I'm Shanu Ojha</h1>
+<h3 align="center">🚀 Tech Enthusiast | Web Developer | Data Science Learner</h3>
 
-###
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="80"> 
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="80"> 
+</p>
 
-<h3 align="left">🛠️ My Toolbox</h3>
+---
 
-###
+## 🛠️ Tech Toolbox  
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="25" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" height="40" alt="tailwindcss logo"  />
+<div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap; gap: 20px;">
+
+  <!-- Luffy GIF -->
+  <img src="https://c.tenor.com/fwrky34J6o8AAAAd/tenor.gif" height="200" alt="Luffy Gif" />
+
+  <!-- Tech Icons -->
+  <div align="center">
+  <p align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="70px" alt="coding gif" />
+  </p>
+    
+  **Languages:**  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" /> 
+  
+  <br><br>
+  **Frameworks & Tools:**  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" /> 
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" /> 
+  <img src="https://skillicons.dev/icons?i=aws" height="40" /> 
+  
+  <br><br>
+  **Libraries & Others:**  
+  Pandas | NumPy | Matplotlib | GSAP | Lenis | Three.js | API Integration | AWS Deployment | Video Editing  
+
+  </div>
 </div>
 
-###
+---
 
-<h3 align="left">📫 Let's Connect!</h3>
+## 📊 GitHub Analytics  
 
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="65" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="65" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="65" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="65" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="65" height="40" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="65" height="40" alt="hackerrank logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img align="left" height="180" src="https://c.tenor.com/fwrky34J6o8AAAAd/tenor.gif"  />
-
-###
+<p align="center">
+  <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="60" alt="chart gif" />
+</p>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Shanu-Ojha&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Shanu-Ojha&theme=dracula&hide_border=false&border_radius=5" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shanu-Ojha&show_icons=true&count_private=true&theme=dracula&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shanu-Ojha&layout=compact&theme=dracula&hide_border=false" height="150" />
 </div>
 
-###
+---
 
-<br clear="both">
+## 🌐 Let's Connect  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="90px" alt="connect gif" />
+</p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shanu-Ojha&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shanu-Ojha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <a href="https://www.linkedin.com/in/shanu-ojha" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+  <a href="https://instagram.com/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
+  <a href="mailto:ojhashanu2004@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
 </div>
 
-###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
-
-###
+---
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Shanu-Ojha/count.svg?"  />
+  <img src="https://media.giphy.com/media/26u4cqVR8dsmedTJ6/giphy.gif" width="120px" alt="counter gif" /><br>
 </div>
-
-###
